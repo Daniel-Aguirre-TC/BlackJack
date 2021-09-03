@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\Second-Desktop\repos\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\Second-Desktop\repos\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
